@@ -1,4 +1,6 @@
-# Detekcja nastawienia polaków do szczepień przeciw Covid-19 na podstawie danych pozyskanych z Twittera
+# Detekcja nastawienia Polaków do szczepień przeciw Covid-19 na podstawie danych pozyskanych z Twittera
+
+Authors: Maciej Małecki, Michał Budnik, Mateusz Czyż
 
 ## Opis ogólny
 
