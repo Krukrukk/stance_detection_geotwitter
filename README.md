@@ -104,3 +104,7 @@ Patrząc na efekty przedstawione wyżej postanowilismy połączyć ich siły w j
 * rozszerzenie zbioru o wyznaczenie *spacial lag* dla wszystkich zmiennych niezależnych.
 
 Dodatkowo doszło bardziej **inżynieryjskie** pobawienie się tym, które zmienne niezależne mają być uznane za stałe w obrębie *regime* poskutkowało uzyskaniem miary R-kwadrat fianlnego modelu na poziomie `0.7464`.
+
+![Zbiór danych do regresji](./figure/mapkaaaaa.png)
+
+![Zbiór danych do regresji](./figure/mapka_predykcji.png)
